@@ -3,3 +3,11 @@
     height: 600px;
 }
 
+.txt-white{
+    color: white;
+}
+
+.upc{
+    text-transform: uppercase;
+}
+
