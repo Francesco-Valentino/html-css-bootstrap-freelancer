@@ -1,10 +1,22 @@
 .blue-section{
     background-color: #1ABC9C;
-    height: 600px;
+    /*height: 600px;*/
 }
 
 .txt-white{
     color: white;
+}
+
+.txt-xlarge{
+    font-size: 2.2rem;
+}
+
+.txt-large{
+    font-size: 1.5rem;
+}
+
+.txt-regular{
+    font-size: 1rem;
 }
 
 .upc{
@@ -13,5 +25,27 @@
 
 .propic{
     width: 250px;
+}
+
+.horizontal-line{
+    height: 1px;
+    border: white solid 3px;
+    border-radius: 5px;
+}
+
+@media screen and (min-width: 768px){
+    h1.big-title{
+        font-size: 4rem;
+    }
+
+    h3.jobs{
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (min-width: 992px){
+    h1.big-title{
+        font-size: 3.7rem;
+    }
 }
 
