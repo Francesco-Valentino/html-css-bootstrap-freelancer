@@ -74,6 +74,15 @@ button{
     border: white solid 2px;
 }
 
+.forms-wrapper{
+    width: 65%;
+    margin: 0 auto;
+}
+
+#floatingTextarea{
+    height: 120px;
+}
+
 .upper-footer{
     background-color: #3A546D;
     /*height: 400px;*/
