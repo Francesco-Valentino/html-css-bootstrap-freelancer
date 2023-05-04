@@ -76,12 +76,12 @@ button{
 
 .upper-footer{
     background-color: #3A546D;
-    height: 400px;
+    /*height: 400px;*/
 }
 
 .lower-footer{
     background-color: #2C3E50;
-    height: 200px;
+    /*height: 200px;*/
 }
 
 .glyph-wrapper{
