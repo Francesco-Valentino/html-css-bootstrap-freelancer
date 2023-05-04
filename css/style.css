@@ -26,6 +26,10 @@ header{
     font-size: 1.5rem;
 }
 
+.txt-larger{
+    font-size: 1.3rem;
+}
+
 .txt-regular{
     font-size: 1rem;
 }
@@ -50,8 +54,42 @@ header{
     border-radius: 5px;
 }
 
-.portfolio-title{
+h2{
     font-size: 1.7rem;
+}
+
+.blue-section p{
+    font-size: 1.3rem;
+    text-align: left;
+    line-height: 1.6rem;
+}
+
+.about-us-wrapper{
+    width: 70%;
+    margin: 0 auto;
+}
+
+button{
+    background: none;
+    border: white solid 2px;
+}
+
+.upper-footer{
+    background-color: #3A546D;
+    height: 400px;
+}
+
+.lower-footer{
+    background-color: #2C3E50;
+    height: 200px;
+}
+
+.footer-glyph{
+    height: 1.5rem;
+    width: 1.5rem;
+    border: 1px #2C3E50 solid;
+    border-radius: 50%;
+    margin: .5rem 1rem;
 }
 
 @media screen and (min-width: 768px){
