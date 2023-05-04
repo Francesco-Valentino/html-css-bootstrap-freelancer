@@ -94,7 +94,7 @@ button{
     width: 55px;
     border: 1px white solid;
     border-radius: 50%;
-    margin: 10px 20px;
+    margin: 10px 0;
 }
 
 .glyph-link{
